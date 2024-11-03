@@ -40,3 +40,7 @@ As escolhas feitas pelos clientes serão armazenadas na memória, permitindo que
 
 ## Ferramentas utilizadas:
 <h3><a href="https://edsim51.com/">EDSIM51</a></h3>
+<img src="https://edsim51.com/wp-content/uploads/2024/08/favicon-2.png?w=272" alt="EDSIM51" width="50" height="50" >
+<h2>Microcontrolador<h3><a href="https://edsim51.com/">Intel 8051</a></h3>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/KL_Intel_P8051.jpg/330px-KL_Intel_P8051.jpg" alt="Intel 8051" width="150" height="100">
+
